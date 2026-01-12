@@ -13,3 +13,13 @@
 
 # Garder le README
 !README.md
+
+
+.vscode/
+.DS_Store
+.env
+.lib/ 
+.platerformio.ini
+.pio
+
+Couple au démarrage, amélioration trigger
