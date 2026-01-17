@@ -377,8 +377,8 @@ sequenceDiagram
 
 ### Prérequis
 
-- PlatformIO IDE ou PlatformIO CLI
-- ESP32 (NodeMCU, DevKit, etc.)
+- VS Code avec PlatformIO
+- ESP32
 - Bibliothèques:
   - Adafruit_ADS1X15
   - ESPAsyncWebServer
