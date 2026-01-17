@@ -498,14 +498,6 @@ Position : 26.5 cm | Consigne : 26.0 cm | Erreur : -0.50 cm | PWM : 175
 | Précision de positionnement | ±0.4 cm |
 | Temps de réponse serveur | < 50 ms |
 
-### Consommation
-
-| Élément | Consommation typique |
-|---------|---------------------|
-| ESP32 (WiFi actif) | ~160 mA |
-| ADS1115 | ~150 µA |
-| Moteur (PWM max) | Variable selon moteur |
-
 ### Sécurité
 
 - Validation des limites logicielles (6-36 cm)
