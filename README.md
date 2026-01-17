@@ -527,11 +527,3 @@ Projet-Verin-commande/
 ├── .gitignore
 └── README.md
 ```
-
-## Auteur
-
-Projet développé pour le Lycée Carnus - BTS CIEL
-
-## Licence
-
-Ce projet est fourni à des fins éducatives.
