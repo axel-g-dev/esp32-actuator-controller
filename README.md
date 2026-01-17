@@ -464,7 +464,7 @@ int pwm_min = 160;
 ### Accès à l'interface web
 
 1. Ouvrir un navigateur
-2. Accéder à `http://[IP_ESP32]` ou `http://ESP32_VERIN.local`
+2. Accéder à `http://[IP_ESP32]` 
 3. La page affiche:
    - Position actuelle du vérin (mise à jour automatique)
    - Slider de commande (6-36 cm)
