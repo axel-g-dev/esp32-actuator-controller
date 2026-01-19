@@ -1,4 +1,4 @@
-# Projet Verin Commande
+# Projet Vérin Commande
 
 Système de contrôle de vérin électrique avec interface web embarquée sur ESP32.
 
