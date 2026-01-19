@@ -13,7 +13,7 @@
 // --------------------------------------------
 const char* ssid = "raf";
 const char* password = "Motdepasse12.";
-const char* nomHoteESP32 ="ESP32_BTSCIEL";
+const char* nomHoteESP32 ="ESP32_CONTROLE_VERIN";
 
 AsyncWebServer server(80);
 
