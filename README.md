@@ -308,7 +308,7 @@ Position(cm) = 62.9
              + 2.05×10⁻¹⁵ × ADC⁴
 ```
 
-Ce polynôme compense la non-linéarité du capteur de position.
+Ce polynôme compense le fait que le capteur soit non linéaire. 
 
 ## Interface web
 
