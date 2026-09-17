@@ -1,4 +1,4 @@
-# Projet Vérin Commande
+# esp32 actuator controller
 
 Système de contrôle de vérin électrique avec interface web embarquée sur ESP32.
 
